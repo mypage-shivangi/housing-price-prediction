@@ -70,12 +70,11 @@ We experimented with multiple models to find the best-performing regression algo
 
 ---
 
-## 📁 Repository Structure
-📦house-price-regression
-┣ 📜 house_price_prediction.ipynb
-┣ 📜 submission.csv
-┣ 📜 README.md
-┗ 📂 data/
+## 📁 Files
+
+- `House Prices Advanced Regresion Techniques.ipynb` → https://www.kaggle.com/code/shivangi2k18/house-prices-advanced-regresion-techniques
+- `data/` → https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
+- `submission.csv` → https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/submissions
 
 ---
 
